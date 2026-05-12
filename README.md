@@ -13,8 +13,6 @@ Practical notebooks from the Machine Learning and Big Data Processing Course
   transformer encoder for text classification, decoder-only transformer
   for text generation
 - Scikit-learn Pipelines for reproducible workflows
-- Real sensor data preprocessing and time series forecasting
-- Experiment tracking and hyperparameter sweeps with Weights & Biases
 
 ## Tools & Libraries
 Python, scikit-learn, PyTorch, torchvision, XGBoost, pandas, NumPy,
